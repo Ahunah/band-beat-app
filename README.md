@@ -121,21 +121,18 @@ The application fully implements **CRUD operations**:
 
 ## 📸 Screenshots
 
-*(Add app screenshots here if available)*
-
-
 ### login as user
 user login and Register 
 
-<img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/55a2f88d-7979-4a75-8813-420c30e66606" /> 
+1. <img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/55a2f88d-7979-4a75-8813-420c30e66606" /> 
 
-<img width="272" height="597" alt="image" src="https://github.com/user-attachments/assets/9d354ab4-6985-47ba-9a45-1b2e033102e3" />
+2. <img width="272" height="597" alt="image" src="https://github.com/user-attachments/assets/9d354ab4-6985-47ba-9a45-1b2e033102e3" />
 
 user login
 
-<img width="267" height="598" alt="image" src="https://github.com/user-attachments/assets/d4a34df4-0128-4b6d-a586-499432529298" />
+3. <img width="267" height="598" alt="image" src="https://github.com/user-attachments/assets/d4a34df4-0128-4b6d-a586-499432529298" />
 
-<img width="266" height="566" alt="image" src="https://github.com/user-attachments/assets/d2283bf0-800f-464e-96d1-25d81c6a7e0a" />  
+4. <img width="266" height="566" alt="image" src="https://github.com/user-attachments/assets/d2283bf0-800f-464e-96d1-25d81c6a7e0a" />  
 
 <img width="272" height="558" alt="image" src="https://github.com/user-attachments/assets/1bbd740b-3451-45e1-a82c-69a56e0bf646" />
 
