@@ -126,14 +126,17 @@ The application fully implements **CRUD operations**:
 
 ### login as user
 user login and Register 
-<img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/55a2f88d-7979-4a75-8813-420c30e66606" />      <img width="272" height="597" alt="image" src="https://github.com/user-attachments/assets/9d354ab4-6985-47ba-9a45-1b2e033102e3" />
+<img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/55a2f88d-7979-4a75-8813-420c30e66606" />      
+<img width="272" height="597" alt="image" src="https://github.com/user-attachments/assets/9d354ab4-6985-47ba-9a45-1b2e033102e3" />
 
 user login
 <img width="267" height="598" alt="image" src="https://github.com/user-attachments/assets/d4a34df4-0128-4b6d-a586-499432529298" />
 
-<img width="266" height="566" alt="image" src="https://github.com/user-attachments/assets/d2283bf0-800f-464e-96d1-25d81c6a7e0a" />     <img width="272" height="558" alt="image" src="https://github.com/user-attachments/assets/1bbd740b-3451-45e1-a82c-69a56e0bf646" />
+<img width="266" height="566" alt="image" src="https://github.com/user-attachments/assets/d2283bf0-800f-464e-96d1-25d81c6a7e0a" />     
+<img width="272" height="558" alt="image" src="https://github.com/user-attachments/assets/1bbd740b-3451-45e1-a82c-69a56e0bf646" />
 
-<img width="271" height="582" alt="image" src="https://github.com/user-attachments/assets/f7ade1f3-9a8e-45c5-a0ae-72edc2c55c5b" />     <img width="260" height="446" alt="image" src="https://github.com/user-attachments/assets/e08a534c-5fd0-4a9e-9b29-a139a1c48250" />
+<img width="271" height="582" alt="image" src="https://github.com/user-attachments/assets/f7ade1f3-9a8e-45c5-a0ae-72edc2c55c5b" />     
+<img width="260" height="446" alt="image" src="https://github.com/user-attachments/assets/e08a534c-5fd0-4a9e-9b29-a139a1c48250" />
 
 user can cancel the booking
 
@@ -146,7 +149,8 @@ password :  " admin123 "
 
 Admin can add , update and delete the event
 
-<img width="272" height="612" alt="image" src="https://github.com/user-attachments/assets/a2c0c905-55ae-4add-9601-a7bf852fccae" />      <img width="266" height="611" alt="image" src="https://github.com/user-attachments/assets/94a7b173-edad-4cfa-aa01-49cd0e6c988b" />
+<img width="272" height="612" alt="image" src="https://github.com/user-attachments/assets/a2c0c905-55ae-4add-9601-a7bf852fccae" />      
+<img width="266" height="611" alt="image" src="https://github.com/user-attachments/assets/94a7b173-edad-4cfa-aa01-49cd0e6c988b" />
 
 ---
 
