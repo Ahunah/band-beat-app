@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BandBeat</string>
+    <string name="bottom_image">Bottom Image</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+</resources>

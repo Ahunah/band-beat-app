@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blur"
+    android:padding="16dp">
+
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+
+<!-- Header -->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:gravity="end|center_vertical"
+    android:orientation="horizontal"
+    android:elevation="6dp"
+    android:clipToPadding="false">
+
+<TextView
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center_vertical"
+    android:fontFamily="@font/agbalumo"
+    android:text="BandBeat"
+    android:textColor="#FFD600"
+    android:textSize="30sp"
+    android:textStyle="bold"
+    android:letterSpacing="0.02"/>
+
+    <ImageButton
+        android:id="@+id/btnMyBookings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="My Bookings"
+        android:src="@android:drawable/ic_menu_sort_by_size"
+        android:tint="#FFE500"
+        android:layout_marginStart="10dp"/>
+
+    <ImageButton
+        android:id="@+id/btnLogout"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@android:drawable/ic_lock_power_off"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Logout"
+        android:tint="#C7A800"
+        android:layout_marginStart="8dp"/>
+</LinearLayout>
+
+    <!-- No Events -->
+<TextView
+android:id="@+id/tvNoEvents"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:gravity="center"
+android:text="No events available\n\nAdmins: Tap + to add events"
+android:textSize="18sp"
+android:textColor="#6A1B9A"
+android:visibility="gone"
+android:padding="16dp"
+android:textAlignment="center"/>
+
+    <!-- Event List -->
+<androidx.recyclerview.widget.RecyclerView
+android:id="@+id/rvEvents"
+android:layout_width="match_parent"
+android:layout_height="0dp"
+android:layout_weight="1"
+android:layout_marginTop="12dp"
+android:clipToPadding="false"
+android:scrollbars="vertical"
+android:padding="8dp"
+
+    android:elevation="4dp"
+    android:paddingBottom="90dp" />
+    </LinearLayout>
+
+    <!-- Add Event FAB -->
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+android:id="@+id/fabAdd"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="bottom|end"
+android:layout_margin="20dp"
+android:contentDescription="Add Event"
+android:backgroundTint="#FFC107"
+    app:tint="#000000"
+    app:srcCompat="@android:drawable/ic_input_add" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
